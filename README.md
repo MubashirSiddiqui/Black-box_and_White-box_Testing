@@ -1,5 +1,5 @@
-# **[Software-Testing-and-Automation-Specialization](https://www.coursera.org/specializations/software-testing-automation)**
-Software Testing and Automation Specialization - Coursera -Offered By University of Minnesota
+# **[Software-Testing-and-Automation-Specialization]**
+Black-box and White-box Testing - Coursera -Offered By University of Minnesota
 
 About this Course
 # **[About this Course]**
