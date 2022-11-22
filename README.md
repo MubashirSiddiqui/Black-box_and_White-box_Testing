@@ -1,7 +1,6 @@
 # **[Software-Testing-and-Automation-Specialization]**
 Black-box and White-box Testing - Coursera -Offered By University of Minnesota
 
-About this Course
 # **[About this Course]**
 - evaluate testability of requirements
 - define testable units within a program specification
